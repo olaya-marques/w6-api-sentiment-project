@@ -10,7 +10,7 @@ app = Flask(__name__)
 #PÁGINA DE INICIO
 @app.route("/")
 def index():
-    readme_file = open("Readme.md", "r")
+    readme_file = open("API.md", "r")
     md_template = markdown.markdown(
         readme_file.read(), extensions = ["fenced_code"]
     )

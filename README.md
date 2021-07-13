@@ -56,6 +56,7 @@ Durante este proyecto se emplearon las siguientes librerías:
 4.	Extraer el valor emocional de los discursos y compararlos con los países más “felices e infelices” (empleando web scrapping para la obtención de los datos en referencia al índice global de la felicidad).
 5.	Visualización de los resultados obtenidos en el apartado anterior mediante WordClouds.
 
+![Cierre](https://user-images.githubusercontent.com/64830147/125502094-f0cde2df-acdd-4f3d-8701-9cf6f8d4c0d7.png)
 
 # Links & Resources  🖇️
 - [Pandas documentation](https://pandas.pydata.org)
